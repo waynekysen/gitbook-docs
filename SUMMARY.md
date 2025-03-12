@@ -2,7 +2,7 @@
 
 * [Web3 Guidebooks](README.md)
 
-## 💁 User Guides
+## 💁 Staking Guides
 
 * [Ethereum Staking (ETH via JinOro)](user-guides/jinoro-ethereum-staking-simplified.md)
 * [Ethereum Staking (ETH via Stakewise)](user-guides/stakewise-v3-eth-liquid-staking.md)
