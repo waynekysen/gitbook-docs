@@ -4,11 +4,11 @@ cover: .gitbook/assets/photo_2023-12-10_01-39-05.jpg
 coverY: 106.97058823529412
 ---
 
-# Web3 Guidebooks
+# Web3 Staking and Operator Guides
 
 ## Prelude
 
-This is an open-sourced initiative to build out a set of **Web3 User and Operator Guidebooks** to help navigate the world of Decentralized Finance particularly around Proof-of-Stake staking activities and node operations.
+This is an open-sourced initiative to build out a set of **Web3 Staking and Operator Guidebooks** to help navigate the world of Decentralized Finance particularly around Proof-of-Stake staking activities and node operations.
 
 Let's foster the adoption of Web3 together.
 
